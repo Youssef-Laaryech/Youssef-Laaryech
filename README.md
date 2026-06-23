@@ -42,4 +42,4 @@ I document mistakes, not just successes — because troubleshooting IS the skill
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-laaryech-436318375/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAPhHD64wTfeIZd1IkgnaPQ%3D%3D)
