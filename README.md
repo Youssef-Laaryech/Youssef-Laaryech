@@ -6,10 +6,9 @@
 
 ### What I'm Focused On
 
-🔬 **SOC Home Lab** — Wazuh SIEM + Sysmon + custom detection rules mapped to MITRE ATT&CK  
-📚 **HTB CJCA** — Networking, Linux, Windows, offensive & defensive security fundamentals  
-🤖 **ML for Security** — Ransomware detection using synthetic data augmentation (CTGAN/TVAE)
-
+ **SOC Home Lab**  Wazuh SIEM + Sysmon + custom detection rules mapped to MITRE ATT&CK  
+ **HTB CJCA**  Networking, Linux, Windows, offensive & defensive security fundamentals  
+ **ML for Security**  Ransomware detection using synthetic data augmentation (CTGAN/TVAE)
 ---
 
 ### Skills & Tools
@@ -36,7 +35,7 @@
 
 I learn by building, breaking, and documenting. Every detection rule I write gets tested against real attack simulations. Every concept I study gets explained in my own words and pushed to GitHub.
 
-I document mistakes, not just successes — because troubleshooting IS the skill.
+I document mistakes, not just successes  because troubleshooting IS the skill.
 
 ---
 
