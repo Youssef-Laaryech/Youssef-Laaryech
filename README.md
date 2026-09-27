@@ -1,6 +1,6 @@
 # Hey, I'm Youssef 👋
 
-**Cybersecurity student @ INPT** · SOC & Detection Engineering · Building labs, not just collecting certs
+**Cybersecurity student @ INPT** · I just build stuff, break stuff, and see where it goes
 
 ---
 
