@@ -9,7 +9,9 @@
 | | Project | Status |
 |---|---|---|
 | ⛓️ | **CIM — Cyber Intel Marketplace** — Autonomous AI agents pay per query via x402 on Hedera for cybersecurity threat intelligence. Real on-chain HBAR payments settled end-to-end. Built for ETHOnline 2026. | Shipped |
-| 🔴 | **IBC CTF Platform** — Designed & authored 100 blockchain security challenges for a live CTF event (150 participants). Custom Astro + React headless frontend on CTFd. | Active |
+| 🔴 | **IBC CTF Platform** — 100 blockchain security challenges for a live CTF (150 participants). Custom Astro + React headless frontend on CTFd. | Active |
+| 🔑 | **Clavis** — Secure collaborative file management platform with MFA (OTP), AES-256 file encryption, versioning, ACL, real-time notifications via WebSocket, and a full audit log. | Shipped |
+| 🛠️ | **30 Days of Cyber** — 30 security tools built from scratch in Python, one per day. 13 shipped so far. | In progress |
 | 🛡️ | **SOC Home Lab** — Wazuh SIEM + Sysmon + custom Sigma detection rules mapped to MITRE ATT&CK | Active |
 | 📚 | **HTB CJCA** — Networking, Linux, Windows, offensive & defensive security fundamentals | In progress |
 | 🤖 | **ML for Security** — Ransomware detection using synthetic data augmentation (CTGAN / TVAE) | Completed |
@@ -23,7 +25,7 @@
 | **SIEM & Detection** | Wazuh, Sigma rules, Sysmon, log analysis |
 | **Network Security** | Wireshark, tcpdump, Nmap, protocol analysis |
 | **Web3 & Blockchain** | Hedera (HBAR), x402, HCS, Fastify, TypeScript |
-| **Web & CTF** | CTFd, Astro, React, Docker, Nginx, ctfcli |
+| **Web & CTF** | CTFd, Astro, React, Flask, Docker, Nginx, Socket.IO, ctfcli |
 | **Operating Systems** | Linux (Ubuntu/Kali), Windows, Active Directory |
 | **Scripting** | Python, Bash, PowerShell, TypeScript |
 | **ML for Security** | Scikit-learn, CTGAN, TVAE, Pandas |
@@ -49,10 +51,23 @@ A full CTF competition platform built for INPT Blockchain Club's October 2026 ev
 - **Same-origin deployment** via Nginx method-split routing (no CORS, native cookie auth)
 - Challenges cover: Proof of Work, Merkle trees, double-spend forensics, 51% attack game theory, smart contract vulnerabilities (reentrancy, integer overflow, missing access control), flash loan oracle manipulation, ECDSA nonce reuse, selfish mining, zero-knowledge proofs, MEV/sandwich attacks, Sybil resistance, blockchain forensics
 
+### 🔑 [Clavis — Secure File Management Platform](https://github.com/yousseflarynv-gif/Clavis)
+A full-stack collaborative file management web app built as an INPT course project. Security-first from the ground up.
+- **MFA via email OTP** — every login requires a one-time code
+- **AES-256 file encryption** — all uploaded files encrypted at rest with Fernet
+- **Versioning & file locking** — full version history + TTL-based auto-release locks
+- **Granular ACL** — per-file, per-user access control
+- **Complete audit log** — every action recorded
+- **Real-time notifications** via Socket.IO WebSocket
+- **Anti brute-force** — 5 failed attempts → 15-minute lockout; bcrypt (14 rounds) for passwords
+- **Stack:** Python 3.12 + Flask · React 19 · SQLite (WAL) · JWT + OTP auth · Socket.IO · SMTP (Brevo)
+
 ### 🧪 [30 Days of Cyber](https://github.com/Youssef-Laaryech/30-days-of-cyber)
 30 cybersecurity tools built from scratch, one per day — no copy-pasting, no shortcuts.
-- Tools shipped so far: multi-cipher encoder, port scanner, DNS lookup CLI, hash cracker, metadata scraper, network traffic analyzer, Linux CIS hardening auditor, SSH brute force detector, systemd persistence scanner, secrets scanner, canary token generator, mini SIEM, HTTP security header scanner
-- **Stack:** Python · CLI · built to understand, not just to run
+
+Tools shipped: multi-cipher encoder · port scanner · DNS lookup CLI · hash cracker · metadata scraper · network traffic analyzer · Linux CIS hardening auditor · SSH brute force detector · systemd persistence scanner · secrets scanner · canary token generator · mini SIEM · HTTP security header scanner
+
+**Stack:** Python · CLI · built to understand, not just to run
 
 ### 🔐 [Ransomware Data Augmentation](https://github.com/Youssef-Laaryech/ransomware-data-augmentation)
 ML-based ransomware detection addressing the real-world problem of scarce labeled malware datasets. Uses CTGAN, TGAN, and TVAE to generate synthetic ransomware feature vectors for model training.
