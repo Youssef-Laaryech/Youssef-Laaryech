@@ -50,13 +50,23 @@ A full CTF competition platform built for INPT Blockchain Club's October 2026 ev
 - Challenges cover: Proof of Work, Merkle trees, double-spend forensics, 51% attack game theory, smart contract vulnerabilities (reentrancy, integer overflow, missing access control), flash loan oracle manipulation, ECDSA nonce reuse, selfish mining, zero-knowledge proofs, MEV/sandwich attacks, Sybil resistance, blockchain forensics
 
 ### 🧪 [30 Days of Cyber](https://github.com/Youssef-Laaryech/30-days-of-cyber)
-30 cybersecurity projects built from scratch, one per day.
+30 cybersecurity tools built from scratch, one per day — no copy-pasting, no shortcuts.
+- Tools shipped so far: multi-cipher encoder, port scanner, DNS lookup CLI, hash cracker, metadata scraper, network traffic analyzer, Linux CIS hardening auditor, SSH brute force detector, systemd persistence scanner, secrets scanner, canary token generator, mini SIEM, HTTP security header scanner
+- **Stack:** Python · CLI · built to understand, not just to run
 
 ### 🔐 [Ransomware Data Augmentation](https://github.com/Youssef-Laaryech/ransomware-data-augmentation)
 ML-based ransomware detection addressing the real-world problem of scarce labeled malware datasets. Uses CTGAN, TGAN, and TVAE to generate synthetic ransomware feature vectors for model training.
 
-### 📝 [HTB Writeups](https://github.com/Youssef-Laaryech/writeups)
-Enumeration, exploitation, and privilege escalation walkthroughs for HackTheBox machines.
+### 📝 [HTB Writeups & Cybervault](https://github.com/Youssef-Laaryech/writeups)
+A structured personal knowledge base for offensive security — not just writeups.
+```
+Cybervault/
+├── Projects/labs/          ← HackTheBox machine writeups
+├── Knowledge/Concept/      ← atomic technique notes
+├── Areas/Daily/            ← web & protocol study notes
+└── Areas/Resources/        ← tool notes + command cheatsheets
+```
+Written in Markdown, cross-linked, readable in Obsidian or any viewer.
 
 ---
 
