@@ -26,6 +26,10 @@
 | **Network Security** | Wireshark, tcpdump, Nmap, protocol analysis |
 | **Web3 & Blockchain** | Hedera (HBAR), x402, HCS, Fastify, TypeScript |
 | **Web & CTF** | CTFd, Astro, React, Flask, Docker, Nginx, Socket.IO, ctfcli |
+| **Penetration Testing** | Burp Suite, ffuf, sqlmap, Metasploit/msfvenom, Hydra, John, Netcat, Nikto |
+| **Exploitation** | Path traversal, unrestricted file upload RCE, SSRF, credential reuse, Git object crafting, CVE exploitation |
+| **Enumeration** | nmap, enum4linux-ng, SMB/RPC, vhost fuzzing, subdomain discovery, API endpoint discovery |
+| **Post-Exploitation** | Privilege escalation, container escape, credential harvesting, lateral movement, systemd service abuse |
 | **Operating Systems** | Linux (Ubuntu/Kali), Windows, Active Directory |
 | **Scripting** | Python, Bash, PowerShell, TypeScript |
 | **ML for Security** | Scikit-learn, CTGAN, TVAE, Pandas |
@@ -73,15 +77,24 @@ Tools shipped: multi-cipher encoder · port scanner · DNS lookup CLI · hash cr
 ML-based ransomware detection addressing the real-world problem of scarce labeled malware datasets. Uses CTGAN, TGAN, and TVAE to generate synthetic ransomware feature vectors for model training.
 
 ### 📝 [HTB Writeups & Cybervault](https://github.com/Youssef-Laaryech/writeups)
-A structured personal knowledge base for offensive security — not just writeups.
-```
-Cybervault/
-├── Projects/labs/          ← HackTheBox machine writeups
-├── Knowledge/Concept/      ← atomic technique notes
-├── Areas/Daily/            ← web & protocol study notes
-└── Areas/Resources/        ← tool notes + command cheatsheets
-```
-Written in Markdown, cross-linked, readable in Obsidian or any viewer.
+A structured personal knowledge base for offensive security — built in Obsidian, written like a field manual.
+
+**Machines rooted (6):**
+
+| Machine | OS | Difficulty | Key Techniques |
+|---|---|---|---|
+| **Nexus** | Linux | Easy | Vhost fuzzing · Git commit history leakage · CVE-2026-38526 (unrestricted file upload → RCE) · `os.path.join()` path traversal · Raw Git object crafting · SSH privesc |
+| **Silentium** | Linux | Medium | Flowise account takeover (CVE-2025-58434) · Flowise `Function()` RCE (CVE-2025-59528) · Container env credential dump · Gogs symlink traversal + sshCommand injection (CVE-2025-8110) |
+| **Abducted** | Windows | — | SMB/RPC enumeration · enum4linux-ng · Null session · User/share discovery |
+| **Cohort** | Linux | — | SSRF · loopback filter bypass (`127.1`) · Internal port discovery · API enumeration |
+| **Orion** | Linux | — | In progress |
+| **2Million** | Linux | — | In progress |
+
+**Attack phases covered in cheatsheets:** Recon · Web · PrivEsc · Reverse shells · Pivoting · Linux permissions · HTTP reference
+
+**Tools with dedicated notes:** nmap · ffuf · Burp Suite · sqlmap · metasploit · msfvenom · meterpreter · netcat · hydra · john · nikto · wireshark · tcpdump · curl · git · shodan · aircrack-ng · cdk
+
+**Technique concepts documented:** Path traversal · Unrestricted file upload RCE · Git commit history leakage · Raw Git object crafting · Credential reuse · Vhost fuzzing · SMB enumeration
 
 ---
 
