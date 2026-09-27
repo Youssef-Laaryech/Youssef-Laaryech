@@ -8,7 +8,8 @@
 
 | | Project | Status |
 |---|---|---|
-| 🔴 | **IBC CTF Platform** — Designed & authored 100 blockchain security challenges for a live CTF event (jeopardy-style, 150 participants). Built on CTFd with a custom Astro + React headless frontend. Concepts covered: PoW, Merkle trees, double-spend, 51% attacks, smart contract auditing, flash loan exploits, ECDSA nonce reuse, MEV, ZK proofs. | Active |
+| ⛓️ | **CIM — Cyber Intel Marketplace** — Autonomous AI agents pay per query via x402 on Hedera for cybersecurity threat intelligence. Real on-chain HBAR payments settled end-to-end. Built for ETHOnline 2026. | Shipped |
+| 🔴 | **IBC CTF Platform** — Designed & authored 100 blockchain security challenges for a live CTF event (150 participants). Custom Astro + React headless frontend on CTFd. | Active |
 | 🛡️ | **SOC Home Lab** — Wazuh SIEM + Sysmon + custom Sigma detection rules mapped to MITRE ATT&CK | Active |
 | 📚 | **HTB CJCA** — Networking, Linux, Windows, offensive & defensive security fundamentals | In progress |
 | 🤖 | **ML for Security** — Ransomware detection using synthetic data augmentation (CTGAN / TVAE) | Completed |
@@ -21,15 +22,25 @@
 |---|---|
 | **SIEM & Detection** | Wazuh, Sigma rules, Sysmon, log analysis |
 | **Network Security** | Wireshark, tcpdump, Nmap, protocol analysis |
+| **Web3 & Blockchain** | Hedera (HBAR), x402, HCS, Fastify, TypeScript |
 | **Web & CTF** | CTFd, Astro, React, Docker, Nginx, ctfcli |
 | **Operating Systems** | Linux (Ubuntu/Kali), Windows, Active Directory |
 | **Scripting** | Python, Bash, PowerShell, TypeScript |
 | **ML for Security** | Scikit-learn, CTGAN, TVAE, Pandas |
-| **Frameworks** | MITRE ATT&CK, NIST CSF, PASTA |
+| **Frameworks** | MITRE ATT&CK, NIST CSF, PASTA, World ID |
 
 ---
 
 ## Projects
+
+### ⛓️ [CIM — Cyber Intel Marketplace](https://github.com/zayd-mzn/ethonline2026) · [Live Demo](https://ethonline-dun.vercel.app/)
+Built for **ETHOnline 2026**. A marketplace where autonomous AI agents pay per query — via x402 on Hedera — for cybersecurity threat intelligence, with providers gated behind World human-verification.
+- **Full agent loop** working end-to-end: discover → HTTP 402 → HBAR micro-payment → consume → threat report
+- **Real on-chain payment** settled and verified on Hedera testnet via Blocky402 ([HashScan proof](https://hashscan.io/testnet/transaction/0.0.7162784@1788996589.198259785))
+- **Stack:** TypeScript everywhere — Fastify backend, autonomous agent (`@hashgraph/sdk` + `@x402/hedera`), React 19 + Vite + Tailwind frontend
+- **Hedera HCS** audit log: every paid request written as an immutable on-chain record
+- **World ID Selfie Check** gates provider publishing (anti-Sybil); agent human-backing via AgentKit
+- **Live SSE dashboard** streams every stage of the agent loop in real time
 
 ### 🔗 [IBC CTF — Human Blockchain Simulation](https://github.com/4bd0z4/inpt-ibc-ctf)
 A full CTF competition platform built for INPT Blockchain Club's October 2026 event.
