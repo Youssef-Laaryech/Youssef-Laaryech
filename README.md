@@ -39,7 +39,7 @@
 
 ## Projects
 
-### ⛓️ [CIM — Cyber Intel Marketplace](https://github.com/zayd-mzn/ethonline2026) · [Live Demo](https://ethonline-dun.vercel.app/)
+### ⛓️ [CIM — Cyber Intel Marketplace](https://github.com/zayd-mzn/ethonline2026) · [Live Demo](https://ethonline-dun.vercel.app/) · [ETHOnline 2026 Certificate](certificates/ETHOnline2026/ethonline2026-youssef-laaryech-certificate.pdf)
 Built for **ETHOnline 2026**. A marketplace where autonomous AI agents pay per query — via x402 on Hedera — for cybersecurity threat intelligence, with providers gated behind World human-verification.
 - **Full agent loop** working end-to-end: discover → HTTP 402 → HBAR micro-payment → consume → threat report
 - **Real on-chain payment** settled and verified on Hedera testnet via Blocky402 ([HashScan proof](https://hashscan.io/testnet/transaction/0.0.7162784@1788996589.198259785))
@@ -100,6 +100,7 @@ A structured personal knowledge base for offensive security — built in Obsidia
 
 ## Certifications
 
+- ✅ [ETHOnline 2026 — Certificate of Participation](certificates/ETHOnline2026/ethonline2026-youssef-laaryech-certificate.pdf) · Project: [CIM](https://ethglobal.com/showcase/cim-uvx7x)
 - ✅ Google Cybersecurity Professional Certificate
 - 🔄 HTB Certified Junior Cybersecurity Associate *(in progress)*
 
