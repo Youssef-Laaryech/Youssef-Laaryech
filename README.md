@@ -10,7 +10,7 @@ youssef@inpt:~$ ls -a
 .  ..  .bashrc  .flag  projects  writeups  certs
 
 youssef@inpt:~$ cat .flag
-SU5QVHtzMGs0bDRyeV93NHNfaDNyM19uMHdfbDN0c190NGxrfQ==
+SU5QVHtsaW5rZWRpbi5jb20vaW4veW91c3NlZi1sYWFyeWVjaH0gZ2xhZCB0byBjb25uZWN0IHdpdGggeW91IQ==
 
 # decode it. you know how.
 ```
