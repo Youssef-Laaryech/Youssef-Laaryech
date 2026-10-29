@@ -1,83 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=SOC+%26+Detection+Engineering+%40+INPT;6+HTB+boxes+rooted+%C2%B7+every+one+written+up;agents+paying+agents+for+threat+intel+(ETHOnline+2026);building+labs%2C+not+collecting+certs" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Aspiring+Cybersecurity+Engineer+%40+INPT;Red+Teaming+%2F+Pentesting+enthusiast;Blockchain+%26+Web3+security+enthusiast;6+HTB+boxes+rooted+%C2%B7+every+one+written+up" alt="typing banner" />
 </p>
 
 ```console
-youssef@inpt:~$ chmod +r profile.txt && cat profile.txt
-
-                                                  ...::::::::...
-                                         ..-=+*#%@@@@@@%%%%@@@@@@%#*+=:.
-                                    .-+*%@@%%##******+++++++++*****##%%@%#*=:.
-                                .=*%@@%#**********++*++++++++++*+*++++++**#%@%*=:
-                            .-*%@%#******+++****++***++++++++++++++++++++++++*#%@%*-.
-                          -*%@%***++*****++*+++****++++++++++++++++++++++++++++++*#@%*:
-                       :*%%**********+++++++++++++++++++++++++++++++++++++++++++++++*#@%+.
-                    .=#@*=+*******+++++++++++++++++++++++++++++++++++++++++++++++++++++*%@*:
-                  .+%%=:-********+++++++++++++++++++++++++++++++++++++++++++++++++++++++--*@*:
-                .+%#-..:+*******#*++++++++++++++++++++++++++++++++++++++++++++++++++++++=-.:#@*.
-              .+@%-....+***######*++++++++++++++++++++++++++++++++++++++++++++++++++++++=-:..:#@=
-             -%@-.....-****####**+++++++++++++++++++++++++++++++++++++++++++++++++++++++---:...=@%:
-           .+@+......:+******##++++++++++++++++++++++++++++++=++++++++++++++++++=+++++++---:.....#@+.
-          :#%-.......-**+==+******++++********++++++++++++++++++++++++++++++++--+++++++=----......=@*.
-        .-@#:......:=#%%%%%#####%%%%%%%%%%#**+************##%%##%#*+=-=++++=-::++++++++=----:.....:=%#:
-        =@*....:+%#*+===============+++==+*#%%%%%%%%%%%%#*+=-::::..::::::::::::--::-=++-----:.......-%%:
-       +@*..-##+=++==========+==+++=========-::-===========-:::::::::::::::::::::..::::::----:......:-%%:
-      +@*:*#+==========+++++++===========-:-=+++===========-:::::::::::::::::::::::::::::----:.....::.-%%.
-     =@%%*======+===++++++============-:-+*++++*=::::.......::::::::::::::::::::::::::::::::::::::::...-@%.
-    -%%+++++++++++++++++===========---=+*#@@@@@@#=========-:::::::::::::::::::::::::::::::::::::::::....=@+
-   .*@+++++++++++++++============--=#%@@@@@@@@@@#=========-::::::::::::::::::::::::::::::::::::::::::....*@-
-  .=@#++++++++++++++===----======+=@@@@@@@@@@@@%#++++++**=-:::::---:::::::::::::::::::::::::::::::::::::::@#.
-  :#%*+++++++++++==--=+++===--::--=@@@@@@@@@@@@#*+#####*+*+::::----:::::::::::::::::::::::---::::::::::...+@=
- .=@#++====--:...::-=*#%@@@#=++++++%@@@@@@@@@%############=:::------:::::::::::::::::::::::::::::::.......:%#.
- .*%-...........:-+%@@@@@@@#*#####%%@@@@%%%%%%##########*+-:::::-:::::::-::::::::---:::::::::::::::::::::.:+%=
- :%*:..........:-=%@@@@@@@@#%#######%%%%%##########***+-:::::::::::::::----:::::::::::::::::::::::::::::...-@+.
-.-@+..........:--=#@@@@@@@%########################*=-::::::::::::::::----:::::::::::::::::::::::::::::....-%#:
-.+%=.......:::----*@@@@@%%*##########################*+---::::.:::::::::-::::::::::::::::::::::::::::::::..:*#:
-.*%-.........:::---+*%%%##+##*#########################*+=--::::::::::::::::::::::::::::::::::::::::::::::::+%-
-.*#:..........::::--+#####=======*#######################*+=::::::::::::::::::::::::::::::::::::::::::::::::+%=
-.*#:........::--:::-+#####*+===+*########################*=-::::::::::::::::::::::::::::::::::::::::::::....+@=
-.*#:.......:::::::::=#######***##########################*-::::::::::::::...::.:::::::.:::::::::::::::::::..+%-
-.*%-.........:::::::=##################################*=-::::::::..::..........:::::::...:::::::::::::::..:*%-
-.=%=.........:::::..-*######*#####################***+-:::::....................::.::::......::::::::::::::-##:
- -@+.......::::....::+######*######################*+=-:.............................:::...........:::.....-%*.
- :%*:.....:::.......:=*########************###########*+=-----:......................................::....=@=
- .*%-....::..........:=*######**#######################*****+=:...........................................:##:
-  =@+.................:+*##################################*-.............................................-@+.
-  :#%:..................=################################*=:.....:::......................................#%:
-   =%+............:......-*#############################***=---===:....................................::+@+
-   .*@-....::::::::.......:+#############################*+======-::....................................:@#.
-    :#%=================--::-*#########################*+=========-:.......:-..........................:%@:
-     =%%=======================+*###################*+===========-::.....-==:..:.:::..................:#@-
-      =@#==========================+*###########*++============-==-:.-.-===-:-=::-=-::..............::*@=
-       +@#============================+*###**+====================-:=-========--====--=-.....::::::::*@=.
-        =@%=============================-===========--==================================-.....:::::-*@-.
-        .-@%+==============================::::-=========================================:-:.:::::-%%-
-          :%%+===============================-:====--====================================-=-:::::=@#:
-           .*@*================================-:-==========================================-:::#@*.
-             =%@+==============-=================-:::--======================================-=@%:
-              .*@%==============-=================-:::::::--================================+%@=
-                :%@#============--==================--:::::::::--=========================+#@*.
-                 .-%@#=========-::===================---:::::::::::::-===================#@#:
-                   .:#@#+======-:::===================--=-::::::::::::::::---=========+%@*:
-                      :*@@*==---:::-============-======--==-:::::::::::::::::::::--=*@%+.
-                         -#@%*=-::::---======-=----------------:::::::::::::::::-+%@#-.
-                           .=#@%*--::-------=----:---------------::::::::::::-+%@#=.
-                              .:+#@%*+==---------::-----------------::::-=*%@%*-.
-                                  .:+#%@%#*++==--:::--------:---==++*#%@%#+-.
-                                       .:=*##%@@@%###########%@@@%#*+=:.
-                                               .::--=======--:..
-```
-
-```console
-youssef@inpt:~$ figlet "Youssef Laaryech"
-__   __                    __   _                              _
-\ \ / /__ _  _ ______ ___ / _| | |   __ _ __ _ _ _ _  _ ___ __| |_
- \ V / _ \ || (_-<_-</ -_)  _| | |__/ _` / _` | '_| || / -_) _| ' \
-  |_|\___/\_,_/__/__/\___|_|   |____\__,_\__,_|_|  \_, \___\__|_||_|
-                                                   |__/
-
-youssef@inpt:~$ grep youssef /etc/passwd
-youssef:x:1337:1337:Cybersec student @ INPT | SOC & Detection Eng | part-time box breaker:/home/youssef:/bin/bash
+youssef@inpt:~$ neofetch
+              .@@@@@@@@@@.                 __   __                    __   _                              _
+         .@@@**************@@@.            \ \ / /__ _  _ ______ ___ / _| | |   __ _ __ _ _ _ _  _ ___ __| |_
+       @@##*******************+@@           \ V / _ \ || (_-<_-</ -_)  _| | |__/ _` / _` | '_| || / -_) _| ' \
+     @@+#%%*****************++**=@@          |_|\___/\_,_/__/__/\___|_|   |____\__,_\__,_|_|  \_, \___\__|_||_|
+   .@-+*+********###*+=-::--.-=+--.@.                                                         |__/
+  .@+++=====--=++=-::.  .........:. @.
+ .@++==--=--*%@@@*=+=..:.............@.    youssef@inpt
+ @::.-*#%++*@@@@@%%%*:.::............ @    ------------
+.@  .*@@@@@@%%%%%%#=......:...........@.   Role       Aspiring Cybersecurity Engineer @ INPT
+@   .:#@#++#%%%%%%%%#-................ @   Focus      Red Teaming / Pentesting
+@   . +%%##%%%%%%%%#=...      ..  .... @   Passion    Blockchain & Web3 security
+.@    :%%%%####%%%#=.:                @.   OS         Kali Linux · Windows AD labs
+ @     -%%%%%%%%%%%%%+                @    Uptime     on GitHub since 2025-07
+ .@..:. :*%%%%%%%%%%*---.            @.    Pwned      6 HTB boxes, all written up
+  .@====--=+*#%##*+====-..:-..:.    @.     Packages   8 projects · 13 tools from scratch
+   .@---=-----=----=====-=======-. @.      Shell      bash, powershell
+     @@----------::--=====-------@@        Langs      Python, TypeScript, Bash
+       @@-::------::...::------@@          Arsenal    nmap, burp, bloodhound, impacket, hedera-sdk
+         .@@@--------:.    @@@.
+              .@@@@@@@@@@.                 ███ ███ ███ ███ ███ ███ ███ ███
 
 youssef@inpt:~$ cat /etc/motd
 Building labs, not just collecting certs.
@@ -94,13 +40,13 @@ Host is up, caffeine-bound.
 
 PORT       STATE  SERVICE        VERSION
 22/tcp     open   ssh            curiosity 2.0 (never closes)
-443/tcp    open   detection-eng  wazuh + sysmon + sigma, mapped to MITRE ATT&CK
-1337/tcp   open   offensive      htb: 6 boxes rooted, 2 on the bench
+1337/tcp   open   red-team       htb: 6 boxes rooted, 2 on the bench, every kill chain written up
 3268/tcp   open   ldap-gc        active directory: bloodhound -> genericall -> rbcd -> SYSTEM
 8545/tcp   open   web3-rpc       hedera + x402, autonomous agents paying for threat intel
-31337/tcp  open   ctf            100 blockchain challenges served to 150 players
+31337/tcp  open   ctf            100 blockchain challenges authored, 150 players
+5601/tcp   open   blue-lab       wazuh + sysmon + sigma: knowing what the defender sees
 
-Service Info: Host: inpt; OSs: Linux (Kali/Ubuntu), Windows (AD)
+Service Info: Host: inpt; OSs: Linux (Kali/Ubuntu), Windows (AD); Role: aspiring cybersecurity engineer
 Nmap done: 1 IP address (1 host up) scanned. 0 boring ports found.
 ```
 
@@ -109,11 +55,12 @@ Nmap done: 1 IP address (1 host up) scanned. 0 boring ports found.
 ```console
 youssef@inpt:~$ ps aux --sort=-%cpu | grep youssef
 USER     PID  %CPU STAT COMMAND
-youssef  101  40.0 R    soc-home-lab --siem wazuh --telemetry sysmon --rules sigma --map att&ck
-youssef  202  20.0 R    htb pwn abducted     # samba null session, the door is somewhere
-youssef  203  15.0 R    htb pwn paperwork    # cmd injection via job name
-youssef  304  15.0 S    htb-academy --path cjca
-youssef  405  10.0 T    30-days-of-cyber --day 16   # 13/30 shipped. paused, not dead
+youssef  101  35.0 R    htb pwn abducted     # samba null session, the door is somewhere
+youssef  102  25.0 R    htb pwn paperwork    # cmd injection via job name
+youssef  203  15.0 S    htb-academy --path cjca
+youssef  304  10.0 S    web3-sec --study reentrancy,oracles,mev
+youssef  405   8.0 S    home-lab --siem wazuh --telemetry sysmon   # attack it, then watch the logs
+youssef  506   7.0 T    30-days-of-cyber --day 16   # 13/30 shipped. paused, not dead
 ```
 
 ---
@@ -125,7 +72,7 @@ drwxr-xr-x  cim-cyber-intel-marketplace/  shipped   AI agents pay per query in H
 drwxr-xr-x  ibc-ctf-platform/             shipped   100 challenges · 17 blockchain attack classes · 150 players · Astro on CTFd
 drwxr-xr-x  clavis/                       shipped   secure file sharing · email OTP MFA · encryption at rest · ACL · audit log
 drwxr-xr-x  deleg-it/                     shipped   toolkit for INPT class reps: file collection, treasury, voting · React + Express
-drwxrwxr-x  soc-home-lab/                 active    Wazuh · Sysmon · Sigma · MITRE ATT&CK
+drwxrwxr-x  home-lab/                     active    attack/defense lab · Wazuh · Sysmon · Sigma · ATT&CK
 drwxrwxr-x  writeups/                     active    6 HTB writeups · 26 tool notes · 20 technique notes · 7 cheatsheets
 drwxrwxr-x  30-days-of-cyber/             paused    13/30 security tools built from scratch, from port scanner to mini SIEM
 drwxr-xr-x  ml-ransomware-detection/      done      CTGAN · TVAE · synthetic data for scarce malware datasets
@@ -166,7 +113,6 @@ paperwork   linux            medium   wip      cmd injection via unsanitized job
 youssef@inpt:~$ sudo -l
 User youssef may run the following commands on inpt:
 
-    (BLUE)       wazuh, sysmon, sigma, log-analysis, wireshark, tcpdump
     (RECON)      nmap, ffuf, enum4linux-ng, smbmap, ldapsearch, shodan
     (WEB)        burpsuite, sqlmap, nikto, curl
     (EXPLOIT)    path-traversal, file-upload-rce, ssrf, sqli, cmd-injection, cve-exploitation
@@ -175,8 +121,9 @@ User youssef may run the following commands on inpt:
     (CRACK)      hydra, john
     (RE)         ilspycmd (.NET)
     (VULN-MGMT)  nessus, openvas
+    (BLUE-LAB)   wazuh, sysmon, sigma, wireshark, tcpdump
     (BUILD)      python, bash, powershell, typescript, react, flask, fastify, express, docker, nginx
-    (WEB3)       hedera sdk, x402, hcs, ctfd
+    (WEB3)       hedera sdk, x402, hcs, smart-contract vulns, ctfd
     (ML)         scikit-learn, pandas, ctgan, tvae
     (FRAMEWORK)  mitre-att&ck, nist-csf, pasta
 ```
@@ -206,7 +153,7 @@ youssef@inpt:~$ ls -l ~/certs/
 
 youssef@inpt:~$ cat ~/.config/how-i-work.conf
 learn      = build, break, document
-detection  = every rule tested against a real attack simulation
+offense    = every attack I run, I also try to detect
 concepts   = explained in my own words, pushed to GitHub
 mistakes   = documented, not hidden   # troubleshooting IS the skill
 ```
