@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Aspiring+Cybersecurity+Engineer+%40+INPT;Red+Teaming+%2F+Pentesting+enthusiast;Blockchain+%26+Web3+security+enthusiast;6+HTB+boxes+rooted+%C2%B7+every+one+written+up" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Aspiring+Cybersecurity+Engineer+%40+INPT;Red+Teaming+%2F+Pentesting+enthusiast;Blockchain+%26+Web3+security+enthusiast;Hack+The+Box+player+%C2%B7+break%2C+root%2C+write+it+up" alt="typing banner" />
 </p>
 
 <p align="center">
