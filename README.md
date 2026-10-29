@@ -1,126 +1,247 @@
-# Hey, I'm Youssef 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=SOC+%26+Detection+Engineering+%40+INPT;6+HTB+boxes+rooted+%C2%B7+every+one+written+up;agents+paying+agents+for+threat+intel+(ETHOnline+2026);building+labs%2C+not+collecting+certs" alt="typing banner" />
+</p>
 
-**Cybersecurity student @ INPT** · I just build stuff, break stuff, and see where it goes
+```console
+youssef@inpt:~$ chmod +r profile.txt && cat profile.txt
 
----
+                                                  ...::::::::...
+                                         ..-=+*#%@@@@@@%%%%@@@@@@%#*+=:.
+                                    .-+*%@@%%##******+++++++++*****##%%@%#*=:.
+                                .=*%@@%#**********++*++++++++++*+*++++++**#%@%*=:
+                            .-*%@%#******+++****++***++++++++++++++++++++++++*#%@%*-.
+                          -*%@%***++*****++*+++****++++++++++++++++++++++++++++++*#@%*:
+                       :*%%**********+++++++++++++++++++++++++++++++++++++++++++++++*#@%+.
+                    .=#@*=+*******+++++++++++++++++++++++++++++++++++++++++++++++++++++*%@*:
+                  .+%%=:-********+++++++++++++++++++++++++++++++++++++++++++++++++++++++--*@*:
+                .+%#-..:+*******#*++++++++++++++++++++++++++++++++++++++++++++++++++++++=-.:#@*.
+              .+@%-....+***######*++++++++++++++++++++++++++++++++++++++++++++++++++++++=-:..:#@=
+             -%@-.....-****####**+++++++++++++++++++++++++++++++++++++++++++++++++++++++---:...=@%:
+           .+@+......:+******##++++++++++++++++++++++++++++++=++++++++++++++++++=+++++++---:.....#@+.
+          :#%-.......-**+==+******++++********++++++++++++++++++++++++++++++++--+++++++=----......=@*.
+        .-@#:......:=#%%%%%#####%%%%%%%%%%#**+************##%%##%#*+=-=++++=-::++++++++=----:.....:=%#:
+        =@*....:+%#*+===============+++==+*#%%%%%%%%%%%%#*+=-::::..::::::::::::--::-=++-----:.......-%%:
+       +@*..-##+=++==========+==+++=========-::-===========-:::::::::::::::::::::..::::::----:......:-%%:
+      +@*:*#+==========+++++++===========-:-=+++===========-:::::::::::::::::::::::::::::----:.....::.-%%.
+     =@%%*======+===++++++============-:-+*++++*=::::.......::::::::::::::::::::::::::::::::::::::::...-@%.
+    -%%+++++++++++++++++===========---=+*#@@@@@@#=========-:::::::::::::::::::::::::::::::::::::::::....=@+
+   .*@+++++++++++++++============--=#%@@@@@@@@@@#=========-::::::::::::::::::::::::::::::::::::::::::....*@-
+  .=@#++++++++++++++===----======+=@@@@@@@@@@@@%#++++++**=-:::::---:::::::::::::::::::::::::::::::::::::::@#.
+  :#%*+++++++++++==--=+++===--::--=@@@@@@@@@@@@#*+#####*+*+::::----:::::::::::::::::::::::---::::::::::...+@=
+ .=@#++====--:...::-=*#%@@@#=++++++%@@@@@@@@@%############=:::------:::::::::::::::::::::::::::::::.......:%#.
+ .*%-...........:-+%@@@@@@@#*#####%%@@@@%%%%%%##########*+-:::::-:::::::-::::::::---:::::::::::::::::::::.:+%=
+ :%*:..........:-=%@@@@@@@@#%#######%%%%%##########***+-:::::::::::::::----:::::::::::::::::::::::::::::...-@+.
+.-@+..........:--=#@@@@@@@%########################*=-::::::::::::::::----:::::::::::::::::::::::::::::....-%#:
+.+%=.......:::----*@@@@@%%*##########################*+---::::.:::::::::-::::::::::::::::::::::::::::::::..:*#:
+.*%-.........:::---+*%%%##+##*#########################*+=--::::::::::::::::::::::::::::::::::::::::::::::::+%-
+.*#:..........::::--+#####=======*#######################*+=::::::::::::::::::::::::::::::::::::::::::::::::+%=
+.*#:........::--:::-+#####*+===+*########################*=-::::::::::::::::::::::::::::::::::::::::::::....+@=
+.*#:.......:::::::::=#######***##########################*-::::::::::::::...::.:::::::.:::::::::::::::::::..+%-
+.*%-.........:::::::=##################################*=-::::::::..::..........:::::::...:::::::::::::::..:*%-
+.=%=.........:::::..-*######*#####################***+-:::::....................::.::::......::::::::::::::-##:
+ -@+.......::::....::+######*######################*+=-:.............................:::...........:::.....-%*.
+ :%*:.....:::.......:=*########************###########*+=-----:......................................::....=@=
+ .*%-....::..........:=*######**#######################*****+=:...........................................:##:
+  =@+.................:+*##################################*-.............................................-@+.
+  :#%:..................=################################*=:.....:::......................................#%:
+   =%+............:......-*#############################***=---===:....................................::+@+
+   .*@-....::::::::.......:+#############################*+======-::....................................:@#.
+    :#%=================--::-*#########################*+=========-:.......:-..........................:%@:
+     =%%=======================+*###################*+===========-::.....-==:..:.:::..................:#@-
+      =@#==========================+*###########*++============-==-:.-.-===-:-=::-=-::..............::*@=
+       +@#============================+*###**+====================-:=-========--====--=-.....::::::::*@=.
+        =@%=============================-===========--==================================-.....:::::-*@-.
+        .-@%+==============================::::-=========================================:-:.:::::-%%-
+          :%%+===============================-:====--====================================-=-:::::=@#:
+           .*@*================================-:-==========================================-:::#@*.
+             =%@+==============-=================-:::--======================================-=@%:
+              .*@%==============-=================-:::::::--================================+%@=
+                :%@#============--==================--:::::::::--=========================+#@*.
+                 .-%@#=========-::===================---:::::::::::::-===================#@#:
+                   .:#@#+======-:::===================--=-::::::::::::::::---=========+%@*:
+                      :*@@*==---:::-============-======--==-:::::::::::::::::::::--=*@%+.
+                         -#@%*=-::::---======-=----------------:::::::::::::::::-+%@#-.
+                           .=#@%*--::-------=----:---------------::::::::::::-+%@#=.
+                              .:+#@%*+==---------::-----------------::::-=*%@%*-.
+                                  .:+#%@%#*++==--:::--------:---==++*#%@%#+-.
+                                       .:=*##%@@@%###########%@@@%#*+=:.
+                                               .::--=======--:..
+```
 
-## What I'm Working On
+```console
+youssef@inpt:~$ figlet "Youssef Laaryech"
+__   __                    __   _                              _
+\ \ / /__ _  _ ______ ___ / _| | |   __ _ __ _ _ _ _  _ ___ __| |_
+ \ V / _ \ || (_-<_-</ -_)  _| | |__/ _` / _` | '_| || / -_) _| ' \
+  |_|\___/\_,_/__/__/\___|_|   |____\__,_\__,_|_|  \_, \___\__|_||_|
+                                                   |__/
 
-| | Project | Status |
-|---|---|---|
-| ⛓️ | **CIM — Cyber Intel Marketplace** — Autonomous AI agents pay per query via x402 on Hedera for cybersecurity threat intelligence. Real on-chain HBAR payments settled end-to-end. Built for ETHOnline 2026. | Shipped |
-| 🔴 | **IBC CTF Platform** — 100 blockchain security challenges for a live CTF (150 participants). Custom Astro + React headless frontend on CTFd. | Active |
-| 🔑 | **Clavis** — Secure collaborative file management platform with MFA (OTP), AES-256 file encryption, versioning, ACL, real-time notifications via WebSocket, and a full audit log. | Shipped |
-| 🛠️ | **30 Days of Cyber** — 30 security tools built from scratch in Python, one per day. 13 shipped so far. | In progress |
-| 🛡️ | **SOC Home Lab** — Wazuh SIEM + Sysmon + custom Sigma detection rules mapped to MITRE ATT&CK | Active |
-| 📚 | **HTB CJCA** — Networking, Linux, Windows, offensive & defensive security fundamentals | In progress |
-| 🤖 | **ML for Security** — Ransomware detection using synthetic data augmentation (CTGAN / TVAE) | Completed |
+youssef@inpt:~$ grep youssef /etc/passwd
+youssef:x:1337:1337:Cybersec student @ INPT | SOC & Detection Eng | part-time box breaker:/home/youssef:/bin/bash
 
----
-
-## Skills & Tools
-
-| Domain | Stack |
-|---|---|
-| **SIEM & Detection** | Wazuh, Sigma rules, Sysmon, log analysis |
-| **Network Security** | Wireshark, tcpdump, Nmap, protocol analysis |
-| **Web3 & Blockchain** | Hedera (HBAR), x402, HCS, Fastify, TypeScript |
-| **Web & CTF** | CTFd, Astro, React, Flask, Docker, Nginx, Socket.IO, ctfcli |
-| **Penetration Testing** | Burp Suite, ffuf, sqlmap, Metasploit/msfvenom, Hydra, John, Netcat, Nikto |
-| **Exploitation** | Path traversal, unrestricted file upload RCE, SSRF, credential reuse, Git object crafting, CVE exploitation |
-| **Enumeration** | nmap, enum4linux-ng, SMB/RPC, vhost fuzzing, subdomain discovery, API endpoint discovery |
-| **Post-Exploitation** | Privilege escalation, container escape, credential harvesting, lateral movement, systemd service abuse |
-| **Operating Systems** | Linux (Ubuntu/Kali), Windows, Active Directory |
-| **Scripting** | Python, Bash, PowerShell, TypeScript |
-| **ML for Security** | Scikit-learn, CTGAN, TVAE, Pandas |
-| **Frameworks** | MITRE ATT&CK, NIST CSF, PASTA, World ID |
-
----
-
-## Projects
-
-### ⛓️ [CIM — Cyber Intel Marketplace](https://github.com/zayd-mzn/ethonline2026) · [Live Demo](https://ethonline-dun.vercel.app/) · [ETHOnline 2026 Certificate](certificates/ETHOnline2026/ethonline2026-youssef-laaryech-certificate.pdf)
-Built for **ETHOnline 2026**. A marketplace where autonomous AI agents pay per query — via x402 on Hedera — for cybersecurity threat intelligence, with providers gated behind World human-verification.
-- **Full agent loop** working end-to-end: discover → HTTP 402 → HBAR micro-payment → consume → threat report
-- **Real on-chain payment** settled and verified on Hedera testnet via Blocky402 ([HashScan proof](https://hashscan.io/testnet/transaction/0.0.7162784@1788996589.198259785))
-- **Stack:** TypeScript everywhere — Fastify backend, autonomous agent (`@hashgraph/sdk` + `@x402/hedera`), React 19 + Vite + Tailwind frontend
-- **Hedera HCS** audit log: every paid request written as an immutable on-chain record
-- **World ID Selfie Check** gates provider publishing (anti-Sybil); agent human-backing via AgentKit
-- **Live SSE dashboard** streams every stage of the agent loop in real time
-
-### 🔗 [IBC CTF — Human Blockchain Simulation](https://github.com/4bd0z4/inpt-ibc-ctf)
-A full CTF competition platform built for INPT Blockchain Club's October 2026 event.
-- **100 challenge files** across 17 blockchain security concepts
-- **Custom headless frontend** in Astro 5 + React 19 replacing CTFd's default UI
-- **Same-origin deployment** via Nginx method-split routing (no CORS, native cookie auth)
-- Challenges cover: Proof of Work, Merkle trees, double-spend forensics, 51% attack game theory, smart contract vulnerabilities (reentrancy, integer overflow, missing access control), flash loan oracle manipulation, ECDSA nonce reuse, selfish mining, zero-knowledge proofs, MEV/sandwich attacks, Sybil resistance, blockchain forensics
-
-### 🔑 [Clavis — Secure File Management Platform](https://github.com/yousseflarynv-gif/Clavis)
-A full-stack collaborative file management web app built as an INPT course project. Security-first from the ground up.
-- **MFA via email OTP** — every login requires a one-time code
-- **AES-256 file encryption** — all uploaded files encrypted at rest with Fernet
-- **Versioning & file locking** — full version history + TTL-based auto-release locks
-- **Granular ACL** — per-file, per-user access control
-- **Complete audit log** — every action recorded
-- **Real-time notifications** via Socket.IO WebSocket
-- **Anti brute-force** — 5 failed attempts → 15-minute lockout; bcrypt (14 rounds) for passwords
-- **Stack:** Python 3.12 + Flask · React 19 · SQLite (WAL) · JWT + OTP auth · Socket.IO · SMTP (Brevo)
-
-### 🧪 [30 Days of Cyber](https://github.com/Youssef-Laaryech/30-days-of-cyber)
-30 cybersecurity tools built from scratch, one per day — no copy-pasting, no shortcuts.
-
-Tools shipped: multi-cipher encoder · port scanner · DNS lookup CLI · hash cracker · metadata scraper · network traffic analyzer · Linux CIS hardening auditor · SSH brute force detector · systemd persistence scanner · secrets scanner · canary token generator · mini SIEM · HTTP security header scanner
-
-**Stack:** Python · CLI · built to understand, not just to run
-
-### 🔐 [Ransomware Data Augmentation](https://github.com/Youssef-Laaryech/ransomware-data-augmentation)
-ML-based ransomware detection addressing the real-world problem of scarce labeled malware datasets. Uses CTGAN, TGAN, and TVAE to generate synthetic ransomware feature vectors for model training.
-
-### 📝 [HTB Writeups & Cybervault](https://github.com/Youssef-Laaryech/writeups)
-A structured personal knowledge base for offensive security — built in Obsidian, written like a field manual.
-
-**Machines rooted (6):**
-
-| Machine | OS | Difficulty | Key Techniques |
-|---|---|---|---|
-| **Nexus** | Linux | Easy | Vhost fuzzing · Git commit history leakage · CVE-2026-38526 (unrestricted file upload → RCE) · `os.path.join()` path traversal · Raw Git object crafting · SSH privesc |
-| **Silentium** | Linux | Medium | Flowise account takeover (CVE-2025-58434) · Flowise `Function()` RCE (CVE-2025-59528) · Container env credential dump · Gogs symlink traversal + sshCommand injection (CVE-2025-8110) |
-| **Abducted** | Windows | — | SMB/RPC enumeration · enum4linux-ng · Null session · User/share discovery |
-| **Cohort** | Linux | — | SSRF · loopback filter bypass (`127.1`) · Internal port discovery · API enumeration |
-| **Orion** | Linux | — | In progress |
-| **2Million** | Linux | — | In progress |
-
-**Attack phases covered in cheatsheets:** Recon · Web · PrivEsc · Reverse shells · Pivoting · Linux permissions · HTTP reference
-
-**Tools with dedicated notes:** nmap · ffuf · Burp Suite · sqlmap · metasploit · msfvenom · meterpreter · netcat · hydra · john · nikto · wireshark · tcpdump · curl · git · shodan · aircrack-ng · cdk
-
-**Technique concepts documented:** Path traversal · Unrestricted file upload RCE · Git commit history leakage · Raw Git object crafting · Credential reuse · Vhost fuzzing · SMB enumeration
+youssef@inpt:~$ cat /etc/motd
+Building labs, not just collecting certs.
+I build stuff, break stuff, write down what broke, and see where it goes.
+```
 
 ---
 
-## Certifications
+```console
+youssef@inpt:~$ nmap -sV -p- youssef-laaryech
+Starting Nmap 7.95 ( https://nmap.org )
+Nmap scan report for youssef-laaryech (github.com)
+Host is up, caffeine-bound.
 
-- ✅ [ETHOnline 2026 — Certificate of Participation](certificates/ETHOnline2026/ethonline2026-youssef-laaryech-certificate.pdf) · Project: [CIM](https://ethglobal.com/showcase/cim-uvx7x)
-- ✅ Google Cybersecurity Professional Certificate
-- 🔄 HTB Certified Junior Cybersecurity Associate *(in progress)*
+PORT       STATE  SERVICE        VERSION
+22/tcp     open   ssh            curiosity 2.0 (never closes)
+443/tcp    open   detection-eng  wazuh + sysmon + sigma, mapped to MITRE ATT&CK
+1337/tcp   open   offensive      htb: 6 boxes rooted, 2 on the bench
+3268/tcp   open   ldap-gc        active directory: bloodhound -> genericall -> rbcd -> SYSTEM
+8545/tcp   open   web3-rpc       hedera + x402, autonomous agents paying for threat intel
+31337/tcp  open   ctf            100 blockchain challenges served to 150 players
+
+Service Info: Host: inpt; OSs: Linux (Kali/Ubuntu), Windows (AD)
+Nmap done: 1 IP address (1 host up) scanned. 0 boring ports found.
+```
 
 ---
 
-## How I Work
-
-I learn by building, breaking, and documenting.
-Every detection rule I write gets tested against real attack simulations.
-Every concept I study gets explained in my own words and pushed to GitHub.
-
-I document mistakes, not just successes — because troubleshooting IS the skill.
+```console
+youssef@inpt:~$ ps aux --sort=-%cpu | grep youssef
+USER     PID  %CPU STAT COMMAND
+youssef  101  40.0 R    soc-home-lab --siem wazuh --telemetry sysmon --rules sigma --map att&ck
+youssef  202  20.0 R    htb pwn abducted     # samba null session, the door is somewhere
+youssef  203  15.0 R    htb pwn paperwork    # cmd injection via job name
+youssef  304  15.0 S    htb-academy --path cjca
+youssef  405  10.0 T    30-days-of-cyber --day 16   # 13/30 shipped. paused, not dead
+```
 
 ---
 
-## Connect
+```console
+youssef@inpt:~$ ls -la ~/projects/
+total 8
+drwxr-xr-x  cim-cyber-intel-marketplace/  shipped   AI agents pay per query in HBAR (x402) for threat intel · ETHOnline 2026
+drwxr-xr-x  ibc-ctf-platform/             shipped   100 challenges · 17 blockchain attack classes · 150 players · Astro on CTFd
+drwxr-xr-x  clavis/                       shipped   secure file sharing · email OTP MFA · encryption at rest · ACL · audit log
+drwxr-xr-x  deleg-it/                     shipped   toolkit for INPT class reps: file collection, treasury, voting · React + Express
+drwxrwxr-x  soc-home-lab/                 active    Wazuh · Sysmon · Sigma · MITRE ATT&CK
+drwxrwxr-x  writeups/                     active    6 HTB writeups · 26 tool notes · 20 technique notes · 7 cheatsheets
+drwxrwxr-x  30-days-of-cyber/             paused    13/30 security tools built from scratch, from port scanner to mini SIEM
+drwxr-xr-x  ml-ransomware-detection/      done      CTGAN · TVAE · synthetic data for scarce malware datasets
+
+youssef@inpt:~$ cat ~/projects/cim-cyber-intel-marketplace/NOTES
+agent discovers feed -> gets HTTP 402 -> pays HBAR on Hedera -> consumes intel -> writes threat report
+every paid request is logged to Hedera HCS · providers gated by World ID (anti-Sybil)
+real payment settled on testnet, receipt on HashScan. not a mockup.
+```
+
+> `xdg-open` →
+> [CIM](https://github.com/zayd-mzn/ethonline2026) ([live demo](https://ethonline-dun.vercel.app/) · [showcase](https://ethglobal.com/showcase/cim-uvx7x) · [on-chain proof](https://hashscan.io/testnet/transaction/0.0.7162784@1788996589.198259785)) ·
+> [Deleg-IT](https://github.com/Youssef-Laaryech/Deleg-IT) ·
+> [Writeups](https://github.com/Youssef-Laaryech/writeups) ·
+> [30 Days of Cyber](https://github.com/Youssef-Laaryech/30-days-of-cyber) ·
+> [Ransomware ML](https://github.com/Youssef-Laaryech/ransomware-data-augmentation)
+
+---
+
+```console
+youssef@inpt:~$ cat ~/writeups/htb/scoreboard.txt
+BOX         OS               DIFF     STATUS   KILL CHAIN
+orion       linux            hard     rooted   second-order SQLi -> TOTP/2FA bypass -> ssh-agent socket hijack -> sudo
+silentium   linux            medium   rooted   Flowise ATO + RCE -> container env creds -> Gogs symlink traversal (CVE-2025-8110)
+cohort      linux            medium   rooted   SSRF (127.1 bypass) -> Marimo WebSocket RCE -> PackageKit TOCTOU -> root
+support     windows (DC)     easy     rooted   .NET RE -> LDAP creds -> BloodHound GenericAll -> RBCD -> S4U -> SYSTEM
+nexus       linux            easy     rooted   vhost fuzz -> git history leak -> upload RCE -> raw git object crafting
+twomillion  linux            easy     rooted   JS deobfuscation -> API BOLA -> cmd injection -> OverlayFS (CVE-2023-0386)
+abducted    linux (samba)    medium   wip      smb null session -> rpc enum -> ...
+paperwork   linux            medium   wip      cmd injection via unsanitized job name -> ...
+```
+
+> `xdg-open` → [writeups & Cybervault](https://github.com/Youssef-Laaryech/writeups), an Obsidian vault written like a field manual
+
+---
+
+```console
+youssef@inpt:~$ sudo -l
+User youssef may run the following commands on inpt:
+
+    (BLUE)       wazuh, sysmon, sigma, log-analysis, wireshark, tcpdump
+    (RECON)      nmap, ffuf, enum4linux-ng, smbmap, ldapsearch, shodan
+    (WEB)        burpsuite, sqlmap, nikto, curl
+    (EXPLOIT)    path-traversal, file-upload-rce, ssrf, sqli, cmd-injection, cve-exploitation
+    (AD)         bloodhound, impacket, evil-winrm, genericall-abuse, rbcd, kerberos-s4u
+    (POST-EXPL)  privesc, container-escape (cdk), credential-reuse, pivoting, metasploit
+    (CRACK)      hydra, john
+    (RE)         ilspycmd (.NET)
+    (VULN-MGMT)  nessus, openvas
+    (BUILD)      python, bash, powershell, typescript, react, flask, fastify, express, docker, nginx
+    (WEB3)       hedera sdk, x402, hcs, ctfd
+    (ML)         scikit-learn, pandas, ctgan, tvae
+    (FRAMEWORK)  mitre-att&ck, nist-csf, pasta
+```
+
+---
+
+```console
+youssef@inpt:~$ history | cut -c8-
+2025-07  git init                                    # hello, github
+2026-04  python train.py --augment ctgan,tvae        # ML meets malware
+2026-06  npm run dev --prefix deleg-it               # fixing my own school's paperwork
+2026-08  ./30-days-of-cyber --day 15                 # 13 tools, zero copy-paste
+2026-09  ethonline submit cim                        # agents paying agents for threat intel
+2026-09  htb pwn nexus silentium cohort               # 3 boxes, 3 writeups
+2026-09  htb pwn support twomillion orion            # AD rabbit hole + first hard box
+2026-10  vim cybervault/pentest-process/*.md         # 8 phases, from scoping to the final report
+2026-10  ctfd deploy ibc-ctf --players 150           # 100 challenges, 0 sleep
+```
+
+---
+
+```console
+youssef@inpt:~$ ls -l ~/certs/
+-rw-r--r--  google-cybersecurity-professional.pdf
+-rw-r--r--  ethonline-2026-participation.pdf
+-rw-------  htb-cjca.pdf.part                       # download in progress
+
+youssef@inpt:~$ cat ~/.config/how-i-work.conf
+learn      = build, break, document
+detection  = every rule tested against a real attack simulation
+concepts   = explained in my own words, pushed to GitHub
+mistakes   = documented, not hidden   # troubleshooting IS the skill
+```
+
+> `xdg-open` → [ETHOnline 2026 certificate](certificates/ETHOnline2026/ethonline2026-youssef-laaryech-certificate.pdf)
+
+---
+
+```console
+youssef@inpt:~$ whois youssef-laaryech
+linkedin:  linkedin.com/in/youssef-laaryech
+github:    github.com/Youssef-Laaryech
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-laaryech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Youssef-Laaryech)
+[![HTB Writeups](https://img.shields.io/badge/HTB_Writeups-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://github.com/Youssef-Laaryech/writeups)
 
----
+<details>
+<summary><code>youssef@inpt:~$ ls -a</code> &nbsp;(there's a hidden file)</summary>
 
-<sub>Last updated: September 2026</sub>
+```console
+youssef@inpt:~$ ls -a
+.  ..  .bashrc  .flag  projects  writeups  certs
+
+youssef@inpt:~$ cat .flag
+SU5QVHt5MHVfcjM0ZF90aDNfd2gwbDNfcjM0ZG0zX24wd19sM3RzX3Q0bGt9
+
+# decode it. you know how.
+```
+
+</details>
+
+```console
+youssef@inpt:~$ exit
+logout
+Connection to inpt closed.
+```
