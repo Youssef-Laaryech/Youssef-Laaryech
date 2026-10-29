@@ -3,7 +3,7 @@
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:14px;white-space:pre}
 .fg{fill:#e6edf3}.pu{fill:#d2a8ff;font-weight:bold}.bl{fill:#79c0ff}.key{fill:#79c0ff;font-weight:bold}.val{fill:#a5d6ff}
 .wave{fill:#39ff14;animation:hue 6s linear infinite}
-@keyframes hue{0%{fill:#39ff14} 20%{fill:#00e5ff} 40%{fill:#7c4dff} 60%{fill:#ff4dd2} 80%{fill:#ffb000} 100%{fill:#39ff14}}
+@keyframes hue{0%{fill:#39ff14} 33%{fill:#00e5ff} 66%{fill:#58a6ff} 100%{fill:#39ff14}}
 @media (prefers-reduced-motion:reduce){.wave{animation:none}}
 </style>
 <rect width="1089" height="666" rx="10" fill="#0d1117"/>
@@ -36,7 +36,7 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sa
 <text x="24" y="480" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.76s">           ,+o*=~;;~~~~:~~~~~~~~~~~:,,',,:;;~~~----------~~~-+xx-.         </tspan>   <tspan class="key">Arsenal    </tspan><tspan class="val">burp, bloodhound, impacket</tspan></text>
 <text x="24" y="498" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.88s">             .;+x*=~;;;`:~~~~~~~~~~~~;;:,''''',,::;;;;;;~=*x*=,            </tspan>   <tspan class="key">Web3       </tspan><tspan class="val">hedera-sdk, x402, ctfd</tspan></text>
 <text x="24" y="516" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.00s">                .:-***=:':;;;;;;~;;~~~~~;;:,''``````,;~=*+~'               </tspan>   </text>
-<text x="24" y="534" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.12s">                    `,~=++*++==--;':;;;;;;~~--~~-====-;,.                  </tspan>   <tspan fill="#39ff14">███</tspan> <tspan fill="#00e5ff">███</tspan> <tspan fill="#7c4dff">███</tspan> <tspan fill="#ff4dd2">███</tspan> <tspan fill="#ffb000">███</tspan> <tspan fill="#ff5555">███</tspan> <tspan fill="#58a6ff">███</tspan> <tspan fill="#e6edf3">███</tspan></text>
+<text x="24" y="534" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.12s">                    `,~=++*++==--;':;;;;;;~~--~~-====-;,.                  </tspan>   <tspan fill="#39ff14">███</tspan> <tspan fill="#2ea043">███</tspan> <tspan fill="#00e5ff">███</tspan> <tspan fill="#58a6ff">███</tspan></text>
 <text x="24" y="552" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.24s">                         .',;~-=====+++++=+==--;:,`.                       </tspan>   </text>
 <text x="24" y="570" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.36s">                                                                           </tspan>   </text>
 <text x="24" y="588" xml:space="preserve"></text>
