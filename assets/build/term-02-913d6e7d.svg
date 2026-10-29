@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1156" height="320" viewBox="0 0 1156 320" role="img" aria-label="terminal: nmap -sV -p- youssef-laaryech">
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:14px;white-space:pre}.fg{fill:#e6edf3}.pu{fill:#d2a8ff;font-weight:bold}.bl{fill:#79c0ff}.out{fill:#a5d6ff}.cm{fill:#8b949e;font-style:italic}</style>
+<rect width="1156" height="320" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="1155" height="319" rx="10" fill="none" stroke="#30363d"/>
+<circle cx="20" cy="16" r="5" fill="#ff5f56"/><circle cx="38" cy="16" r="5" fill="#ffbd2e"/><circle cx="56" cy="16" r="5" fill="#27c93f"/>
+<text x="24" y="48" xml:space="preserve"><tspan class="pu">youssef@inpt</tspan><tspan class="fg">:</tspan><tspan class="bl">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">nmap -sV -p- youssef-laaryech</tspan></text>
+<text x="24" y="66" xml:space="preserve"><tspan class="out">Starting Nmap 7.95 ( https://nmap.org )</tspan></text>
+<text x="24" y="84" xml:space="preserve"><tspan class="out">Nmap scan report for youssef-laaryech (github.com)</tspan></text>
+<text x="24" y="102" xml:space="preserve"><tspan class="out">Host is up, caffeine-bound.</tspan></text>
+<text x="24" y="120" xml:space="preserve"><tspan class="out"></tspan></text>
+<text x="24" y="138" xml:space="preserve"><tspan class="out">PORT       STATE  SERVICE        VERSION</tspan></text>
+<text x="24" y="156" xml:space="preserve"><tspan class="out">22/tcp     open   ssh            curiosity 2.0 (never closes)</tspan></text>
+<text x="24" y="174" xml:space="preserve"><tspan class="out">1337/tcp   open   red-team       htb: 6 boxes rooted, 2 on the bench, every kill chain written up</tspan></text>
+<text x="24" y="192" xml:space="preserve"><tspan class="out">3268/tcp   open   ldap-gc        active directory: bloodhound -&gt; genericall -&gt; rbcd -&gt; SYSTEM</tspan></text>
+<text x="24" y="210" xml:space="preserve"><tspan class="out">8545/tcp   open   web3-rpc       hedera + x402, autonomous agents paying for threat intel</tspan></text>
+<text x="24" y="228" xml:space="preserve"><tspan class="out">31337/tcp  open   ctf            100 blockchain challenges authored, 150 players</tspan></text>
+<text x="24" y="246" xml:space="preserve"><tspan class="out">5601/tcp   open   blue-lab       wazuh + sysmon + sigma: knowing what the defender sees</tspan></text>
+<text x="24" y="264" xml:space="preserve"><tspan class="out"></tspan></text>
+<text x="24" y="282" xml:space="preserve"><tspan class="out">Service Info: Host: inpt; OSs: Linux (Kali/Ubuntu), Windows (AD); Role: aspiring cybersecurity engineer</tspan></text>
+<text x="24" y="300" xml:space="preserve"><tspan class="out">Nmap done: 1 IP address (1 host up) scanned. 0 boring ports found.</tspan></text>
+</svg>

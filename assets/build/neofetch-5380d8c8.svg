@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1156" height="666" viewBox="0 0 1156 666" role="img" aria-label="neofetch: ASCII portrait of Youssef Laaryech with profile info">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:14px;white-space:pre}
+.fg{fill:#e6edf3}.pu{fill:#d2a8ff;font-weight:bold}.bl{fill:#79c0ff}.key{fill:#79c0ff;font-weight:bold}.val{fill:#a5d6ff}
+.wave{fill:#39ff14;animation:hue 6s linear infinite}
+@keyframes hue{0%{fill:#39ff14} 33%{fill:#00e5ff} 66%{fill:#58a6ff} 100%{fill:#39ff14}}
+@media (prefers-reduced-motion:reduce){.wave{animation:none}}
+</style>
+<rect width="1156" height="666" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="1155" height="665" rx="10" fill="none" stroke="#30363d"/>
+<circle cx="20" cy="16" r="5" fill="#ff5f56"/><circle cx="38" cy="16" r="5" fill="#ffbd2e"/><circle cx="56" cy="16" r="5" fill="#27c93f"/>
+<text x="24" y="48" xml:space="preserve"><tspan class="pu">youssef@inpt</tspan><tspan class="fg">:</tspan><tspan class="bl">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">neofetch</tspan></text>
+<text x="24" y="66" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.00s">                           .`,:~-=++*******+=-~;,'.                        </tspan>   </text>
+<text x="24" y="84" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.12s">                     .';-+*xoooooxxxxxxxxxxxxxooooxx+-;'.                  </tspan>   <tspan class="wave" style="animation-delay:-0.12s">__   __                    __</tspan></text>
+<text x="24" y="102" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.24s">                 `:-*oooox****++*************+++++**xxoox*-,.              </tspan>   <tspan class="wave" style="animation-delay:-0.24s">\ \ / /__ _  _ ______ ___ / _|</tspan></text>
+<text x="24" y="120" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.36s">              ,-+=xox**+****************************++++**xo*+;.           </tspan>   <tspan class="wave" style="animation-delay:-0.36s"> \ V / _ \ || (_-&lt;_-&lt;/ -_)  _|</tspan></text>
+<text x="24" y="138" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.48s">           '-*=:.-xxoooo*********************************++=;:-*+:         </tspan>   <tspan class="wave" style="animation-delay:-0.48s">  |_|\___/\_,_/__/__/\___|_|</tspan></text>
+<text x="24" y="156" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.60s">         ,**;.  ~o*oo0x*++++++++++++++++++++**********+****=;:  :*x:       </tspan>   <tspan class="wave" style="animation-delay:-0.60s"> _                              _</tspan></text>
+<text x="24" y="174" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.72s">       `**,  `,~oxxxxxxooooooooooxxxxxxxxxx**=--==+=~:=*++*-:;:   :xx'     </tspan>   <tspan class="wave" style="animation-delay:-0.72s">| |   __ _ __ _ _ _ _  _ ___ __| |_</tspan></text>
+<text x="24" y="192" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.84s">      -X-,;=++++=============---=+***+++-:,'''''',,,',:,,;;::;;` ...~0-    </tspan>   <tspan class="wave" style="animation-delay:-0.84s">| |__/ _` / _` | '_| || / -_) _| ' \</tspan></text>
+<text x="24" y="210" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.96s">     *%+=++=========---=-~~;-=*xx*:;::::,`',,,,,,,,,,,,,,,',,,,'`''' .X*   </tspan>   <tspan class="wave" style="animation-delay:-0.96s">|____\__,_\__,_|_|  \_, \___\__|_||_|</tspan></text>
+<text x="24" y="228" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.08s">    x#-===+++++=~~~~=--~~o0%@@@@@0~====-,`,,:,,,,,,,,,,,,,,,,,,,,,,''` X*  </tspan>   <tspan class="wave" style="animation-delay:-1.08s">                    |__/</tspan></text>
+<text x="24" y="246" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.20s">   =@-==--~~;;;=**x*~-~-*@@@@@@@#oxXXXXo~`,:;::,,,,,,,,,,,'',::,,,,''`. %~ </tspan>   </text>
+<text x="24" y="264" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.32s">  .@;.`... `'-#@@@@#oXXX00####00XXXox*=~:,:,,,,,,;:,,,,::,,,,,,,,,,''`` ;%.</tspan>   <tspan class="pu">youssef</tspan><tspan class="fg">@</tspan><tspan class="pu">inpt</tspan></text>
+<text x="24" y="282" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.44s">  -#    .`';;-@@@%#X00XXXXXXXXXXXXXo*-:,'''',,,,,:,,,,,,,,,,,,,,,,,,,''` %~</tspan>   <tspan class="fg">------------</tspan></text>
+<text x="24" y="300" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.56s">  *o ....`',,::o00o++=+xXXXXXXXXXXXXXXXo=,',,,,,,,,,',,,,,,,,,,,,,,,,'''.X*</tspan>   <tspan class="key">Alias      </tspan><tspan class="val">sokalary</tspan></text>
+<text x="24" y="318" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.68s">  *o .  .`',,''oXXXo**xoXXXXXXXXXXXXXXo*;,,,,'''''``'`',,,'''',,,,,'','` X+</tspan>   <tspan class="key">Role       </tspan><tspan class="val">Aspiring Cybersecurity Engineer</tspan></text>
+<text x="24" y="336" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.80s">  -#     `''``.+0oXXoXXXoooooooooooo*~,``````````.```.`'`''`.````''''''`.%;</tspan>   <tspan class="key">Host       </tspan><tspan class="val">INPT, Morocco</tspan></text>
+<text x="24" y="354" xml:space="preserve"><tspan class="wave" style="animation-delay:-1.92s">  .@: .`''`````'*0Xoooooooooooooooooox+---:...````````....```......```` =# </tspan>   <tspan class="key">Focus      </tspan><tspan class="val">Red Teaming / Pentesting</tspan></text>
+<text x="24" y="372" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.04s">   =#       .``..-oXXoooXXXooooooooooXXo*;``''.`.``.....`......`.....`.'@: </tspan>   <tspan class="key">Passion    </tspan><tspan class="val">Blockchain &amp; Web3 security</tspan></text>
+<text x="24" y="390" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.16s">    oo `''''',''`.'=oXXXXoooooooooXXXXo*-;~~-:`....``......`........` '#-  </tspan>   <tspan class="key">OS         </tspan><tspan class="val">Kali Linux · Windows AD</tspan></text>
+<text x="24" y="408" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.28s">     x#-~---------~:~+*xooXXXXXXXXoox+=-----~:.`.':;''`',.`..`.`..`` :#-   </tspan>   <tspan class="key">Uptime     </tspan><tspan class="val">since 2025-07</tspan></text>
+<text x="24" y="426" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.40s">      =#*;~----------~~~--=*****+=--~~-------;:;~--~~~;--:~:`..'''.'*X,    </tspan>   <tspan class="key">Pwned      </tspan><tspan class="val">6 HTB boxes, all written up</tspan></text>
+<text x="24" y="444" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.52s">       'oX=;~~--~~~~~---~~~~~~;:;~~-------------------------:;'``'=o=      </tspan>   <tspan class="key">Packages   </tspan><tspan class="val">8 projects · 13 tools built</tspan></text>
+<text x="24" y="462" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.64s">         ;xo+~;~~~~~~~~~~~~~~~~~~;;;;~~-----------~~~-~--~~~~~~:=x=`       </tspan>   <tspan class="key">Langs      </tspan><tspan class="val">Python, TypeScript, Bash</tspan></text>
+<text x="24" y="480" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.76s">           ,+o*=~;;~~~~:~~~~~~~~~~~:,,',,:;;~~~----------~~~-+xx-.         </tspan>   <tspan class="key">Arsenal    </tspan><tspan class="val">burp, bloodhound, impacket</tspan></text>
+<text x="24" y="498" xml:space="preserve"><tspan class="wave" style="animation-delay:-2.88s">             .;+x*=~;;;`:~~~~~~~~~~~~;;:,''''',,::;;;;;;~=*x*=,            </tspan>   <tspan class="key">Web3       </tspan><tspan class="val">hedera-sdk, x402, ctfd</tspan></text>
+<text x="24" y="516" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.00s">                .:-***=:':;;;;;;~;;~~~~~;;:,''``````,;~=*+~'               </tspan>   </text>
+<text x="24" y="534" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.12s">                    `,~=++*++==--;':;;;;;;~~--~~-====-;,.                  </tspan>   <tspan fill="#39ff14">███</tspan> <tspan fill="#2ea043">███</tspan> <tspan fill="#00e5ff">███</tspan> <tspan fill="#58a6ff">███</tspan></text>
+<text x="24" y="552" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.24s">                         .',;~-=====+++++=+==--;:,`.                       </tspan>   </text>
+<text x="24" y="570" xml:space="preserve"><tspan class="wave" style="animation-delay:-3.36s">                                                                           </tspan>   </text>
+<text x="24" y="588" xml:space="preserve"></text>
+<text x="24" y="606" xml:space="preserve"><tspan class="pu">youssef@inpt</tspan><tspan class="fg">:</tspan><tspan class="bl">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">cat /etc/motd</tspan></text>
+<text x="24" y="624" xml:space="preserve"><tspan class="val">Building labs, not just collecting certs.</tspan></text>
+<text x="24" y="642" xml:space="preserve"><tspan class="val">I build stuff, break stuff, write down what broke, and see where it goes.</tspan></text>
+</svg>

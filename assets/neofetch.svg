@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1089" height="666" viewBox="0 0 1089 666" role="img" aria-label="neofetch: ASCII portrait of Youssef Laaryech with profile info">
+<svg xmlns="http://www.w3.org/2000/svg" width="1156" height="666" viewBox="0 0 1156 666" role="img" aria-label="neofetch: ASCII portrait of Youssef Laaryech with profile info">
 <style>
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:14px;white-space:pre}
 .fg{fill:#e6edf3}.pu{fill:#d2a8ff;font-weight:bold}.bl{fill:#79c0ff}.key{fill:#79c0ff;font-weight:bold}.val{fill:#a5d6ff}
@@ -6,8 +6,8 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sa
 @keyframes hue{0%{fill:#39ff14} 33%{fill:#00e5ff} 66%{fill:#58a6ff} 100%{fill:#39ff14}}
 @media (prefers-reduced-motion:reduce){.wave{animation:none}}
 </style>
-<rect width="1089" height="666" rx="10" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="1088" height="665" rx="10" fill="none" stroke="#30363d"/>
+<rect width="1156" height="666" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="1155" height="665" rx="10" fill="none" stroke="#30363d"/>
 <circle cx="20" cy="16" r="5" fill="#ff5f56"/><circle cx="38" cy="16" r="5" fill="#ffbd2e"/><circle cx="56" cy="16" r="5" fill="#27c93f"/>
 <text x="24" y="48" xml:space="preserve"><tspan class="pu">youssef@inpt</tspan><tspan class="fg">:</tspan><tspan class="bl">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">neofetch</tspan></text>
 <text x="24" y="66" xml:space="preserve"><tspan class="wave" style="animation-delay:-0.00s">                           .`,:~-=++*******+=-~;,'.                        </tspan>   </text>
