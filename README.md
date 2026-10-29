@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Aspiring+Cybersecurity+Engineer+%40+INPT;Red+Teaming+%2F+Pentesting+enthusiast;Blockchain+%26+Web3+security+enthusiast;Hack+The+Box+player+%C2%B7+break%2C+root%2C+write+it+up" alt="typing banner" />
+  <img src="assets/hero.svg" width="100%" alt="sokalary, a.k.a. Youssef Laaryech: aspiring cybersecurity engineer, red teaming and blockchain enthusiast" />
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ youssef@inpt:~$ ls -a
 .  ..  .bashrc  .flag  projects  writeups  certs
 
 youssef@inpt:~$ cat .flag
-SU5QVHt5MHVfcjM0ZF90aDNfd2gwbDNfcjM0ZG0zX24wd19sM3RzX3Q0bGt9
+SU5QVHtzMGs0bDRyeV93NHNfaDNyM19uMHdfbDN0c190NGxrfQ==
 
 # decode it. you know how.
 ```
