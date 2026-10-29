@@ -2,6 +2,21 @@
   <img src="assets/hero.svg" width="100%" alt="sokalary, a.k.a. Youssef Laaryech: aspiring cybersecurity engineer, red teaming and blockchain enthusiast" />
 </p>
 
+<details>
+<summary><code>youssef@inpt:~$ ls -a</code> &nbsp;(there's a hidden file)</summary>
+
+```console
+youssef@inpt:~$ ls -a
+.  ..  .bashrc  .flag  projects  writeups  certs
+
+youssef@inpt:~$ cat .flag
+SU5QVHtzMGs0bDRyeV93NHNfaDNyM19uMHdfbDN0c190NGxrfQ==
+
+# decode it. you know how.
+```
+
+</details>
+
 <p align="center">
   <img src="assets/neofetch.svg" width="100%" alt="neofetch: ASCII portrait of Youssef Laaryech with profile info" />
 </p>
@@ -186,21 +201,6 @@ github:    github.com/Youssef-Laaryech
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-laaryech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Youssef-Laaryech)
 [![HTB Writeups](https://img.shields.io/badge/HTB_Writeups-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://github.com/Youssef-Laaryech/writeups)
-
-<details>
-<summary><code>youssef@inpt:~$ ls -a</code> &nbsp;(there's a hidden file)</summary>
-
-```console
-youssef@inpt:~$ ls -a
-.  ..  .bashrc  .flag  projects  writeups  certs
-
-youssef@inpt:~$ cat .flag
-SU5QVHtzMGs0bDRyeV93NHNfaDNyM19uMHdfbDN0c190NGxrfQ==
-
-# decode it. you know how.
-```
-
-</details>
 
 ```console
 youssef@inpt:~$ exit
