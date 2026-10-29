@@ -2,42 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Aspiring+Cybersecurity+Engineer+%40+INPT;Red+Teaming+%2F+Pentesting+enthusiast;Blockchain+%26+Web3+security+enthusiast;6+HTB+boxes+rooted+%C2%B7+every+one+written+up" alt="typing banner" />
 </p>
 
-```console
-youssef@inpt:~$ neofetch
-                           .`,:~-=++*******+=-~;,'.
-                     .';-+*xoooooxxxxxxxxxxxxxooooxx+-;'.
-                 `:-*oooox****++*************+++++**xxoox*-,.                 __   __                    __
-              ,-+=xox**+****************************++++**xo*+;.              \ \ / /__ _  _ ______ ___ / _|
-           '-*=:.-xxoooo*********************************++=;:-*+:             \ V / _ \ || (_-<_-</ -_)  _|
-         ,**;.  ~o*oo0x*++++++++++++++++++++**********+****=;:  :*x:            |_|\___/\_,_/__/__/\___|_|
-       `**,  `,~oxxxxxxooooooooooxxxxxxxxxx**=--==+=~:=*++*-:;:   :xx'         _                              _
-      -X-,;=++++=============---=+***+++-:,'''''',,,',:,,;;::;;` ...~0-       | |   __ _ __ _ _ _ _  _ ___ __| |_
-     *%+=++=========---=-~~;-=*xx*:;::::,`',,,,,,,,,,,,,,,',,,,'`''' .X*      | |__/ _` / _` | '_| || / -_) _| ' \
-    x#-===+++++=~~~~=--~~o0%@@@@@0~====-,`,,:,,,,,,,,,,,,,,,,,,,,,,''` X*     |____\__,_\__,_|_|  \_, \___\__|_||_|
-   =@-==--~~;;;=**x*~-~-*@@@@@@@#oxXXXXo~`,:;::,,,,,,,,,,,'',::,,,,''`. %~                        |__/
-  .@;.`... `'-#@@@@#oXXX00####00XXXox*=~:,:,,,,,,;:,,,,::,,,,,,,,,,''`` ;%.
-  -#    .`';;-@@@%#X00XXXXXXXXXXXXXo*-:,'''',,,,,:,,,,,,,,,,,,,,,,,,,''` %~   youssef@inpt
-  *o ....`',,::o00o++=+xXXXXXXXXXXXXXXXo=,',,,,,,,,,',,,,,,,,,,,,,,,,'''.X*   ------------
-  *o .  .`',,''oXXXo**xoXXXXXXXXXXXXXXo*;,,,,'''''``'`',,,'''',,,,,'','` X+   Role       Aspiring Cybersecurity Engineer
-  -#     `''``.+0oXXoXXXoooooooooooo*~,``````````.```.`'`''`.````''''''`.%;   Host       INPT, Morocco
-  .@: .`''`````'*0Xoooooooooooooooooox+---:...````````....```......```` =#    Focus      Red Teaming / Pentesting
-   =#       .``..-oXXoooXXXooooooooooXXo*;``''.`.``.....`......`.....`.'@:    Passion    Blockchain & Web3 security
-    oo `''''',''`.'=oXXXXoooooooooXXXXo*-;~~-:`....``......`........` '#-     OS         Kali Linux · Windows AD
-     x#-~---------~:~+*xooXXXXXXXXoox+=-----~:.`.':;''`',.`..`.`..`` :#-      Uptime     since 2025-07
-      =#*;~----------~~~--=*****+=--~~-------;:;~--~~~;--:~:`..'''.'*X,       Pwned      6 HTB boxes, all written up
-       'oX=;~~--~~~~~---~~~~~~;:;~~-------------------------:;'``'=o=         Packages   8 projects · 13 tools built
-         ;xo+~;~~~~~~~~~~~~~~~~~~;;;;~~-----------~~~-~--~~~~~~:=x=`          Langs      Python, TypeScript, Bash
-           ,+o*=~;;~~~~:~~~~~~~~~~~:,,',,:;;~~~----------~~~-+xx-.            Arsenal    burp, bloodhound, impacket
-             .;+x*=~;;;`:~~~~~~~~~~~~;;:,''''',,::;;;;;;~=*x*=,               Web3       hedera-sdk, x402, ctfd
-                .:-***=:':;;;;;;~;;~~~~~;;:,''``````,;~=*+~'
-                    `,~=++*++==--;':;;;;;;~~--~~-====-;,.                     ███ ███ ███ ███ ███ ███ ███ ███
-                         .',;~-=====+++++=+==--;:,`.
-
-
-youssef@inpt:~$ cat /etc/motd
-Building labs, not just collecting certs.
-I build stuff, break stuff, write down what broke, and see where it goes.
-```
+<p align="center">
+  <img src="assets/neofetch.svg" width="100%" alt="neofetch: ASCII portrait of Youssef Laaryech with profile info" />
+</p>
 
 ---
 
